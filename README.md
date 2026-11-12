@@ -7,8 +7,8 @@ Streckenplanung, Videos für Strava und Garmin.
 `AlpCycle-Virtual-<Version>.zip` herunterladen, entpacken und `…-Setup.exe` starten.
 
 - Windows 10/11 (64 Bit), keine Administratorrechte nötig
-- Testversion: 250 km oder 2.500 Höhenmeter
-- Vollversion: in der App unter „Lizenz“ anfordern oder an AlpCycleVirtual@yahoo.com schreiben
+- Testversion: 50 km oder 500 Höhenmeter, ohne Anmeldung
+- Vollversion: in der App unter „Lizenz“ auf „Lizenz kaufen / verlängern“ – Fragen an alpcyclevirtual@gmx.at
 - Neue Versionen meldet die App selbst
 
 Meldet Windows „Der Computer wurde durch Windows geschützt“: „Weitere Informationen“ → „Trotzdem ausführen“.
